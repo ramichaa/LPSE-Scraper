@@ -9,6 +9,7 @@ Petunjuk Penggunaan :
 <h3>Langkah 1: Pilih Domain LPSE</h3>
             <ul>
                 <li>Klik "Muat File Domain (.csv)" untuk memilih file CSV yang berisi daftar domain LPSE.</li>
+                <li>Contoh isi dengan nama file : List_LPSE.csv adalah https://spse.inaproc.id/pu.</li>
                 <li>Pilih domain yang ingin di-scrape dengan mencentang kotak di sebelah domain.</li>
                 <li>Gunakan tombol "Pilih Semua" atau "Hapus Pilihan" untuk memilih atau menghapus semua pilihan.</li>
             </ul>
