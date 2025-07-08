@@ -1,6 +1,6 @@
 # LPSE-Scraper
 
-![image](https://github.com/user-attachments/assets/6697b41b-8159-4181-85ab-55755e0379ec)
+![image](https://github.com/user-attachments/assets/06df5436-2cec-451d-82ce-2d4cc2b0bd2c)
 
 Aplikasi untuk membantu dalam mengunduh data data di Website LPSE
 
